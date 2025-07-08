@@ -1,4 +1,4 @@
-> # Motas_Soft
+# Motas_Soft
 <h1 align="center">Hi 👋, I'm Motas_Soft</h1>
 <h3 align="center">A passionate Software Engineer building across platforms</h3>
 
